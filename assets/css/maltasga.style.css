@@ -1,0 +1,21 @@
+#barra {
+    height: 15px;
+    width: 100%;
+    background-color: #323030;
+}
+#brand-titulo::after {
+    content: "{ Malta }"
+}
+#brand-titulo {
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#menu {
+    margin: 10px auto;
+    border-bottom: 1px solid #D8D5D5;
+}
+
+div.div-h1 {
+    margin: 20px auto;
+    font-size: 4em;
+}
